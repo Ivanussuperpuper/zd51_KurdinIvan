@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|c:\\users\\st310-05\\desktop\\zd4_kurdinivan\\zd4_kurdinivan\\zd4_kurdinivan\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|solutionrelative:zd4_kurdinivan\\zd4_kurdinivan\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_kurdinivan\\zd4_kurdinivan\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|solutionrelative:zd4_kurdinivan\\zd4_kurdinivan\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_kurdinivan\\zd4_kurdinivan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|solutionrelative:zd4_kurdinivan\\zd4_kurdinivan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7FD08-7526-4877-BEA5-56FB87D1994A}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{06D7FD08-7526-4877-BEA5-56FB87D1994A}|C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\Style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06D7FD08-7526-4877-BEA5-56FB87D1994A}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{06D7FD08-7526-4877-BEA5-56FB87D1994A}|solutionrelative:Style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_kurdinivan\\zd4_kurdinivan\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|solutionrelative:zd4_kurdinivan\\zd4_kurdinivan\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_kurdinivan\\zd4_kurdinivan\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F18AAA-699E-4726-A05F-66AE25C57FA5}|zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan.csproj|solutionrelative:zd4_kurdinivan\\zd4_kurdinivan\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\Style.css",
+              "RelativeDocumentMoniker": "Style.css",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\Style.css",
+              "RelativeToolTip": "Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-20T09:58:20.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\App.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_KurdinIvan\\zd4_KurdinIvan\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\App.xaml.cs",
+              "RelativeToolTip": "zd4_KurdinIvan\\zd4_KurdinIvan\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:17:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:58:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml",
+              "RelativeToolTip": "zd4_KurdinIvan\\zd4_KurdinIvan\\WelcomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T08:58:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml.cs",
+              "RelativeToolTip": "zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:04:08.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\zd4_KurdinIvan\\zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml",
+              "RelativeToolTip": "zd4_KurdinIvan\\zd4_KurdinIvan\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T18:03:56.491Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
